@@ -46,7 +46,7 @@
 <b>About Me</b>
 </summary>
 
-I’m in my final year CS Undergrad at Port City International University. I've been making websites and apps using MERN recently. Having participated in over <b>8</b> national programming contests including ICPCs, NCPC and IUPCs, I've got a good grasp in Data Structures and Algorithms. I am rated <b>Pupil</b> @Codeforces and <b>3\*</b> @CodeChef. I enjoy putting myself into analytcal challenges.
+I’m a final year CS Undergrad at Port City International University. I've been making websites and apps using MERN recently. Having participated in over <b>8</b> national programming contests including ICPCs, NCPC and IUPCs, I've got a good grasp in Data Structures and Algorithms. I am rated <b>Pupil</b> @Codeforces and <b>3\*</b> @CodeChef. I enjoy putting myself into analytcal challenges.
 
 </details>
 
