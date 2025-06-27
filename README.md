@@ -8,9 +8,9 @@
     </tr>
 </table>
 
-<h5>Contact me at 📧 <a href="mailto:akibur.pciu@gmail.com">akibur.pciu@gmail.com</a></h5>
+<h5>Contact me at 📩 <a href="mailto:akibur.pciu@gmail.com">akibur.pciu@gmail.com</a></h5>
 
-<h5>Currently based in📍<a href="https://maps.app.goo.gl/umnwpvu5gDqKZL2o9">Chattogram, Bangladesh</a></h5>
+<h5>More about me at 🌐 <a href="https://akibur.web.app">https://akibur.web.app</a></h5>
 
 ##
 
@@ -63,7 +63,6 @@
   <tr>
     <td><img height="20" align="center" src="facebook.png"/> <a href="https://www.facebook.com/ar.akib2d">Facebook</a></td>
     <td><img height="20" align="center" src="linkedin.png"/> <a href="https://linkedin.com/in/akibur-r">LinkedIn</a></td>
-    <td><img height="20" align="center" src="web.png"/> <a href="https://akibur.web.app/">Website</a></td>
     <td><img height="20" align="center" src="codeforces.png"/> <a href="https://codeforces.com/profile/akibur_r">Codeforces</a></td>
     <td><img height="20" align="center" src="codechef.png"/> <a href="https://www.codechef.com/users/akibur_r">CodeChef</a></td>
     <td><img height="20" align="center" src="medium.png"/> <a href="https://akibur.medium.com/">Medium</a></td>
